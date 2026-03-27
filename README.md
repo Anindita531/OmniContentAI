@@ -106,14 +106,12 @@ pip install -r requirements.txt
 
 ```
 streamlit run app.py --server.port 10000 --server.address 0.0.0.0
+---
 
-```# OmniContentAI
+## 🌐 Live Demo
 
-This is a live demo of our app:
-
-- Streamlit version: [Click here to see live](https://omnicontentai-euczh9hrcybtcfmbhfznza.streamlit.app/)
-- Render version: [Click here to see live](https://omnicontentai.onrender.com/)
-```
+* **Streamlit version:** [Click here to see live](https://omnicontentai-euczh9hrcybtcfmbhfznza.streamlit.app/)  
+* **Render version:** [Click here to see live](https://omnicontentai.onrender.com/)
 Add environment variables in Render dashboard.
 
 ---
