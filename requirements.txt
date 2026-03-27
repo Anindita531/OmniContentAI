@@ -1,7 +1,6 @@
-streamlit
+streamlit==1.30.0
+langchain-groq==0.1.12   # check the correct version you used locally
 python-dotenv
 reportlab
-langchain
+pydantic
 langgraph
-openai
-groq
