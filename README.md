@@ -85,6 +85,11 @@ GROQ_API_KEY=your_key
 ```
 
 ---
+## 🌐 Live Demo
+
+* **Streamlit version:** [Click here to see live](https://omnicontentai-euczh9hrcybtcfmbhfznza.streamlit.app/)  
+* **Render version:** [Click here to see live](https://omnicontentai.onrender.com/)
+Add environment variables in Render dashboard.
 
 ## ▶️ Run Locally
 
@@ -108,11 +113,6 @@ pip install -r requirements.txt
 streamlit run app.py --server.port 10000 --server.address 0.0.0.0
 ---
 
-## 🌐 Live Demo
-
-* **Streamlit version:** [Click here to see live](https://omnicontentai-euczh9hrcybtcfmbhfznza.streamlit.app/)  
-* **Render version:** [Click here to see live](https://omnicontentai.onrender.com/)
-Add environment variables in Render dashboard.
 
 ---
 
